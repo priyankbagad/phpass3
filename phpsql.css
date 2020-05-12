@@ -1,0 +1,97 @@
+html {
+    background-image: url("back.jpeg");
+ }
+ 
+ .centerText, center
+ {
+    text-align: center;
+ }
+ 
+ .pageContainer {
+     width:80%; 
+     max-width: 800px;
+     margin:7px auto; 
+     padding:25px;
+     min-height: 500px;
+     border-radius: 10px;
+  }
+ 
+ .formGroup{
+    margin:10px 0;  
+ }
+ 
+ .myForm, .formLayout
+ {
+    width:90%;
+    margin:0 auto;
+    text-align: left;
+    background-color: white;
+    opacity: 85%;
+    padding:3%;
+    border-radius: 6px; 
+    border: 5px solid rgb(3, 0, 0); 
+ 
+ }
+ 
+ body {
+    background-image: url("back.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 150%;
+    background-attachment: fixed;
+    margin: 4%;
+  }
+  a.box{ border-style: solid;color: black; background-color:lightblue; padding: 10px; border-color: black; }
+  
+  p.newp{
+     background-color: white;
+     color: black;
+     opacity: 60%;
+     border-style: solid;
+     padding: 40px;
+     margin: 10px;
+     
+  }
+  h1{ 
+  background-color: white;
+  color: black;
+  opacity: 60%;
+  border-style:solid;
+  padding: 10px;}
+
+  h2{
+    background-color: white;
+    color: black;
+    opacity: 60%;
+    border-style:solid;
+    padding: 10px;
+ }
+  
+  div.bd{
+     color: white;
+  
+  }
+
+     
+  img{
+     border-color: black;
+     border-style: solid;
+  }
+
+  
+  h4{
+  background-color: white;
+  color: black;
+  opacity: 60%;
+  border-style:solid;
+  padding: 10px;
+  }
+  
+  div.ndiv{
+     background-color: white;
+     color: black;
+     opacity: 60%;
+     border-style: solid;
+     padding: 20px;
+     margin: 40px;
+  
+  }
